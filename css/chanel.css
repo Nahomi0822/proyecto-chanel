@@ -1,0 +1,140 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+
+background-color: black;
+font-family: Times New Roman;
+color: white;
+font-size: 23px;
+
+}
+
+.Img{
+
+padding: 20 px;
+margin: 40px;
+
+}
+
+.menu{
+
+width: 80%;
+margin: 0 auto;
+
+}
+
+.Inicio{
+
+width: 100%;
+background-color: white;
+text-align: center;
+position: relative;
+}
+
+.Inicio ul{
+
+list-style: none;
+
+}
+
+.Inicio ul li{
+
+display: inline-block;
+padding: 20px;
+transition: all .3s ease;
+}
+
+.Inicio ul li:hover{
+transform: scale(1.2);
+background-color: chocolate;
+}
+
+.Inicio ul li a{
+	color: burlywood;
+	text-decoration: none;
+
+}
+
+.Pr{
+
+
+height: 150px;
+width: 900px;
+margin: 0px ;
+opacity: 0.90;
+text-align: center;
+font-family: Time new Roman;
+font-size: 23px; 
+position: relative;
+
+}
+
+.Hi{
+
+
+height: 150px;
+width: 900px;
+margin: 0px ;
+opacity: 0.90;
+text-align: center;
+font-family: Time new Roman;
+font-size: 23px; 
+position: relative;
+background-color: black;
+
+
+}
+
+.An{
+width: 250px;
+height: 8500px;
+background-color: black;
+position: absolute;
+font-family: Times New Romas;
+opacity: 0.9;
+}
+
+.Di{
+
+
+height: 150px;
+width: 900px;
+margin: 0px ;
+opacity: 0.90;
+text-align: center;
+font-family: Time new Roman;
+font-size: 23px; 
+position: relative;
+background-color: black;
+
+
+}
+
+
+
+
+.Pr{
+
+
+height: 150px;
+width: 900px;
+margin: 0px ;
+opacity: 0.90;
+text-align: center;
+font-family: Time new Roman;
+font-size: 23px; 
+position: relative;
+background-color: black;
+
+
+}
+
+
+
+
+
+
